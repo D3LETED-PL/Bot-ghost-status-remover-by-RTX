@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Podziwia CLASSMC.PL","By D3LETED 🖊️"];
+const statusMessages = ["By D3LETED 🖊️","By D3LETED 🖊️"];
 
 
 let currentIndex = 0;
