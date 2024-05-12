@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["By D3LETED 🖊️","Bot OceanHUB.PL"];
+const statusMessages = ["By D3LETED 🖊️","Ogląda EditVerse 🎥"];
 
 
 let currentIndex = 0;
