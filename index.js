@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["By D3LETED 🖊️","By D3LETED 🖊️"];
+const statusMessages = ["Developer MC/DC","Mega kozak!"];
 
 
 let currentIndex = 0;
