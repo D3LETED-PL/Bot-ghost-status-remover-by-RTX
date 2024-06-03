@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot By D3LETED 🖊️","Bot By D3LETED 🖊️"];
+const statusMessages = ["By D3LETED 🖊️","By D3LETED 🖊️"];
 
 
 let currentIndex = 0;
